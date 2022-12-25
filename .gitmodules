@@ -1,0 +1,3 @@
+[submodule "cs-chimera-bishops"]
+	path = cs-chimera-bishops
+	url = https://github.com/5enthilbaliah/cs-chimera-bishops.git
